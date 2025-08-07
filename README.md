@@ -8,7 +8,7 @@ El objetivo fue construir una solución robusta, visualmente clara y altamente i
 
 ## ✅ Descripción del proyecto
 
-El reporte incluye múltiples páginas y un alto nivel de interactividad mediante **slicers, filtros cruzados, simuladores, predicciones y tooltips personalizados**. Algunos de los principales elementos implementados:
+El reporte incluye múltiples páginas y un alto nivel de interactividad mediante **slicers, bookmarks, filtros cruzados, simuladores, predicciones y tooltips personalizados**. Algunos de los principales elementos implementados:
 
 - **Comparativa de ingresos con y sin descuento**, y diferencias en precios por producto.
 - **Rankings jerárquicos**:
@@ -64,4 +64,5 @@ Se incluye información de ventas por producto, subcategoría, tienda, continent
 - `README.md`: este archivo descriptivo del proyecto.
 
 > 🎯 *Nota: por limitaciones de tamaño en GitHub, el archivo de base de datos está disponible vía enlace externo (Drive).*
+
 
